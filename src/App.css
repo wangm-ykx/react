@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.main{
+    margin: 50px;
+    width: 400px;
+}
+.edit-btn{
+    margin-left: 5px;
+}
+.ant-btn-sm{
+    padding: 0 4px;
+    height: 20px;
+    font-size: 12px;
+}
